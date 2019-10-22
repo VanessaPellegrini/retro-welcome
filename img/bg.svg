@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.11" height="605.458" viewBox="0 0 1920.11 605.458">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1.075" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#40016a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="0.426" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a80275" stop-opacity="0.878"/>
+      <stop offset="0.502" stop-color="#4f0152" stop-opacity="0.737"/>
+      <stop offset="1" stop-color="#280043" stop-opacity="0.675"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7e027e"/>
+      <stop offset="0.596" stop-color="#280043"/>
+      <stop offset="1" stop-color="#330133"/>
+    </linearGradient>
+  </defs>
+  <g id="bg" transform="translate(0)">
+    <rect id="Rectángulo_37" data-name="Rectángulo 37" width="1918" height="540" transform="translate(2)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_1" data-name="Elipse 1" cx="185" cy="185" r="185" transform="translate(1311 186)" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_14" data-name="Trazado 14" d="M1992.174,411.746l64.7-22.6L2170.3,425.139l114.85-54.233,31.487,15.027,33.874-20.273,47.919,27.648,24.729-21.7,34.558,6.417,20.908-11.138,23.031,4.721,79.214-16.492,45.14,5.27,41.1-21.292,86.431,31.812,86.334-73.382,124.486,51.288,98.4-38.042,74.415-28.686,123.087,66.728,70.916-14.288,93.053,53.069,58.833-21.666,65.2,35.6,29.027-19.928,81.248,24.1,63.384-24.1,72.421,34.812,87.86-23.5,27.557,48.351-7.356,75.22L1992.174,527.175Z" transform="translate(-1990 64.324)" fill="url(#linear-gradient-3)"/>
+    <path id="Trazado_15" data-name="Trazado 15" d="M3910.11,507.188l-105.827-49.526-49.357,50.207-130.8-133.992-56.266,83.786-75.168-22.8-50.772,22.8L3301.478,349.447l-64.594,24.429L3034.649,238.809,2929.31,349.447l-47.565-26.035-77.753,76.811L2700.94,349.447l-89.321,74.783-97.881-50.354-53.059,50.354-27-24.007-29.989,57.439-74.19-68.855-88.832,79.519-119.286-94.45L2062.7,457.662,2015,400.223l-25,57.439v116.8l1920-.331Z" transform="translate(-1990 31)"/>
+  </g>
+</svg>
